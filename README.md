@@ -4,8 +4,9 @@
 It’s designed to explore DOM manipulation, event handling, and creative UI/UX effects in a lightweight and engaging way.
 
 🌐 **Live Demo:** 
-👉 [JS PLayground](https://funwithjsbyravi.netlify.app/)
 ---
+👉 [JS PLayground](https://funwithjsbyravi.netlify.app/)
+
 
 ## 🚀 Features
 
