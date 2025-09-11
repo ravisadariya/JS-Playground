@@ -1,6 +1,3 @@
----
-
-
 # 🎮 JS Playground
 
 **JS Playground** is a collection of fun, interactive mini-projects built with **HTML5, CSS3, and vanilla JavaScript**.
