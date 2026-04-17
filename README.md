@@ -1,28 +1,34 @@
 # 🎮 JS Playground
 
-**JS Playground** is a collection of fun, interactive mini-projects built with **HTML5, CSS3, and vanilla JavaScript**.
-It’s designed to explore DOM manipulation, event handling, and creative UI/UX effects in a lightweight and engaging way.
+## 📌 Overview
+JS Playground is a collection of interactive mini-projects built using vanilla JavaScript, HTML5, and CSS3. It demonstrates core frontend concepts such as DOM manipulation, event handling, and dynamic UI behavior through small, focused experiments.
 
 ---
 
-🌐 **Live Demo:** 
-
-👉 [JS PLayground](https://funwithjsbyravi.netlify.app/)
-
----
-
-## 🚀 Features
-
-* ✨ Multiple small JavaScript demos & experiments
-* 🎨 Clean and responsive UI with HTML5 + CSS3
-* 🖱️ Interactive effects using DOM events and animations
-* ⚡ No frameworks required — pure **vanilla JS**
-* 🧩 Beginner-friendly and easy to extend
+## 🛠 Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+- Netlify (Deployment)  
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features
+- ✨ Multiple interactive JavaScript mini-projects  
+- 🖱️ Real-time DOM manipulation and event handling  
+- 🎨 Responsive UI with clean design  
+- ⚡ Lightweight and fast (no frameworks used)  
+- 🧩 Modular and easy to extend  
 
-* **Frontend:** HTML5, CSS3, JavaScript (Vanilla JS)
-* **Deployment:** Netlify 
+---
 
+## 🚀 Live Demo
+👉 [JS Playground](https://funwithjsbyravi.netlify.app/)
+
+---
+
+## ⚙️ Installation & Setup
+```bash
+git clone https://github.com/ravisadariya/JS-Playground.git
+cd JS-Playground
+open index.html
